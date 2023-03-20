@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **empee3/empee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Melissa, an experienced front-end developer from Pittsburgh, PA, USA. I love working with semantic HTML and CSS, and am looking to specialize in a11y, Drupal and WordPress. Here are some other places where you can learn more about me:
+
+- 💻 Website: [melissapiper.com](https://melissapiper.com)
+- 🖊️ CodePen: [@empee3](https://codepen.io/empee3)
+- 💼 LinkedIn: [/in/melissapiper](https://www.linkedin.com/in/melissapiper/)
+
+
