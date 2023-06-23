@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Melissa, an experienced front-end developer from Pittsburgh, PA, USA. I love working with semantic HTML and CSS, and am looking to specialize in a11y, Drupal and WordPress. Here are some other places where you can learn more about me:
+I'm Melissa, a veteran front-end developer from Pittsburgh, PA, USA. I love working with semantic HTML and CSS, and am looking to specialize in a11y, Drupal and WordPress. Here are some other places where you can learn more about me:
 
 - 💻 Website: [melissapiper.com](https://melissapiper.com)
 - 🖊️ CodePen: [@empee3](https://codepen.io/empee3)
